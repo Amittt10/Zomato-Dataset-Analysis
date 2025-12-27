@@ -4,8 +4,11 @@ This project performs exploratory data analysis (EDA) on the Zomato restaurant d
 
 🛠️ Tools Used
 Python
+
 Pandas, NumPy
+
 Matplotlib, Seaborn
+
 WordCloud
 
 📊 Key Insights
